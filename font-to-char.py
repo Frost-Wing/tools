@@ -5,7 +5,7 @@
 
 import sys
 
-file_path = sys.argv[1]  # Replace the path to a diffrent one if needed.
+file_path = sys.argv[1]
 
 try:
     with open(file_path, 'rb') as file:
